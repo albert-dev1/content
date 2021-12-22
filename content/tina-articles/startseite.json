@@ -1,4 +1,4 @@
 {
   "title": "New Article",
-  "body": "<p>Text</p>"
+  "body": "<p>Text</p><p><img src=\"/images/cat.gif\"></p>"
 }
