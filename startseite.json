@@ -1,3 +1,4 @@
 {
-  "title": "TinaCMS is awesome"
+  "title": "TinaCMS is awesome",
+  "body": "<ol><li><p>eins</p></li><li><p>zwei</p></li><li><p>drei</p></li></ol>"
 }
